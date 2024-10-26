@@ -1,0 +1,535 @@
+{
+  "tracks": {
+    "nodes": {
+      "DW5_SylvaLoop415f": {
+        "position": {
+          "x": 25594.9512,
+          "y": 624.858643,
+          "z": -1009.72314
+        },
+        "rotation": {
+          "x": 0,
+          "y": 184.577957,
+          "z": 0
+        },
+        "flipSwitchStand": false
+      },
+      "DW5_SylvaLoop1bwj": {
+        "position": {
+          "x": 25585.77,
+          "y": 624.858643,
+          "z": -1047.647
+        },
+        "rotation": {
+          "x": 0,
+          "y": 199.577957,
+          "z": 0
+        },
+        "flipSwitchStand": false
+      },
+      "DW5_SylvaLoopTunnelwwp0": {
+        "position": {
+          "x": 25527.34,
+          "y": 624.858643,
+          "z": -1122.39136
+        },
+        "rotation": {
+          "x": 0,
+          "y": 239.577957,
+          "z": 0
+        },
+        "flipSwitchStand": false
+      },
+      "DW5_SylvaLoopTunnel8qqp": {
+        "position": {
+          "x": 25413.5859,
+          "y": 624.858643,
+          "z": -1145.90869
+        },
+        "rotation": {
+          "x": 0,
+          "y": 279.577942,
+          "z": 0
+        },
+        "flipSwitchStand": false
+      },
+      "DW5_SylvaLoopTunnelrgj6": {
+        "position": {
+          "x": 25144.88,
+          "y": 624.86,
+          "z": -1025.20
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 300.58,
+          "z": 0.0
+        },
+        "flipSwitchStand": false
+      },
+      "Ntbb": {
+        "position": {
+          "x": 24939.9355,
+          "y": 622.9119,
+          "z": -926.414856
+        },
+        "rotation": {
+          "x": 359.442444,
+          "y": 84.61563,
+          "z": 359.9782
+        },
+        "flipSwitchStand": true
+      },
+      "NSylvaLoop_jlkm": {
+        "position": {
+          "x": 25363.05,
+          "y": 624.858643,
+          "z": -827.678467
+        },
+        "rotation": {
+          "x": 0,
+          "y": 284.57782,
+          "z": 0
+        },
+        "flipSwitchStand": false
+      },
+      "Nvoz": {
+        "position": {
+          "x": 25099.3164,
+          "y": 624.6193,
+          "z": -864.2371
+        },
+        "rotation": {
+          "x": 359.442444,
+          "y": 40.9009972,
+          "z": -6.670423E-08
+        },
+        "flipSwitchStand": true
+      },
+      "Nsylvialoop8j9n": {
+        "position": {
+          "x": 25173,
+          "y": 625.158569,
+          "z": -821.295349
+        },
+        "rotation": {
+          "x": 0.04246686,
+          "y": 69.50117,
+          "z": -5.786318E-07
+        },
+        "flipSwitchStand": false
+      },
+      "Nyi1": {
+        "position": {
+          "x": 25159.4,
+          "y": 625.6,
+          "z": -783.3999
+        },
+        "rotation": {
+          "x": 0,
+          "y": 35.9008255,
+          "z": 0
+        },
+        "flipSwitchStand": false
+      },
+      "Nsylvialooprd8k": {
+        "position": {
+          "x": 25335.4453,
+          "y": 624.858643,
+          "z": -821.0795
+        },
+        "rotation": {
+          "x": 359.442444,
+          "y": 102.801086,
+          "z": -5.336338E-08
+        },
+        "flipSwitchStand": false
+      },
+      "NSylvaLoop_w264": {
+        "position": {
+          "x": 25087.19,
+          "y": 624.629333,
+          "z": -990.84
+        },
+        "rotation": {
+          "x": 0.500037968,
+          "y": 300.5778,
+          "z": 1.06725764E-07
+        },
+        "flipSwitchStand": false
+      },
+      "Ns9z67": {
+        "position": {
+          "x": 25019.18,
+          "y": 623.8414,
+          "z": -952.78
+        },
+        "rotation": {
+          "x": 0.5600104,
+          "y": 295.38,
+          "z": -2.93498715E-07
+        },
+        "flipSwitchStand": false
+      },
+      "NSylvLoop_e03": {
+        "position": {
+          "x": 24930.9961,
+          "y": 622.81665,
+          "z": -933.4814
+        },
+        "rotation": {
+          "x": 359.439941,
+          "y": 84.62186,
+          "z": -2.66817022E-08
+        },
+        "flipSwitchStand": false
+      },
+      "NSylvLoop_9wzl": {
+        "position": {
+          "x": 25108.61,
+          "y": 624.78,
+          "z": -1003.61
+        },
+        "rotation": {
+          "x": 0.15,
+          "y": 300.78,
+          "z": 0
+        },
+        "flipSwitchStand": true
+      },
+      "NSylvLoop_ejir": {
+        "position": {
+          "x": 24880.7441,
+          "y": 622.2228,
+          "z": -938.0191
+        },
+        "rotation": {
+          "x": 359.439941,
+          "y": 84.82186,
+          "z": -8.00451048E-08
+        },
+        "flipSwitchStand": false
+      },
+      "NSylvLoop_pia5": {
+        "position": {
+          "x": 24820.9512,
+          "y": 621.596069,
+          "z": -943.3399
+        },
+        "rotation": {
+          "x": 359.449951,
+          "y": 85.12184,
+          "z": -2.66816578E-08
+        },
+        "flipSwitchStand": false
+      },
+      "NSylvLoop_9wqy": {
+        "position": {
+          "x": 24724.7676,
+          "y": 620.6045,
+          "z": -947.882
+        },
+        "rotation": {
+          "x": 1.00179122E-05,
+          "y": 94.22185,
+          "z": -5.33612621E-08
+        },
+        "flipSwitchStand": false
+      },
+      "NSylvLoop_1mvf": {
+        "position": {
+          "x": 24722.2754,
+          "y": 620.599,
+          "z": -947.704346
+        },
+        "rotation": {
+          "x": 0,
+          "y": 94.22184,
+          "z": 0
+        },
+        "flipSwitchStand": false
+      }
+    },
+    "segments": {
+      "SDW_SylvaLoophiqy": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nadh",
+        "endId": "DW5_SylvaLoop415f",
+        "priority": 0,
+        "speedLimit": 25,
+        "groupId": "sy-db"
+      },
+      "SDW_SylvaLoop7yzf": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "DW5_SylvaLoop415f",
+        "endId": "DW5_SylvaLoop1bwj",
+        "priority": 0,
+        "speedLimit": 25,
+        "groupId": "sy-db"
+      },
+      "SDW_SylvaLoopTunnelwjow": {
+        "style": "Tunnel",
+        "trackClass": "Branch",
+        "startId": "DW5_SylvaLoop1bwj",
+        "endId": "DW5_SylvaLoopTunnelwwp0",
+        "priority": 0,
+        "speedLimit": 25,
+        "groupId": "sy-db"
+      },
+      "SDW_SylvaLoopTunnelzzf4": {
+        "style": "Tunnel",
+        "trackClass": "Branch",
+        "startId": "DW5_SylvaLoopTunnelwwp0",
+        "endId": "DW5_SylvaLoopTunnel8qqp",
+        "priority": 0,
+        "speedLimit": 25,
+        "groupId": "sy-db"
+      },
+      "SDW_SylvaLoopTunnel0jom": {
+        "style": "Tunnel",
+        "trackClass": "Branch",
+        "startId": "DW5_SylvaLoopTunnel8qqp",
+        "endId": "DW5_SylvaLoopTunnelrgj6",
+        "priority": 0,
+        "speedLimit": 25,
+        "groupId": "sy-db"
+      },
+      "SSylvaLoop_32vh": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nadh",
+        "endId": "NSylvaLoop_jlkm",
+        "priority": 0,
+        "speedLimit": 25,
+        "groupId": "sy-db"
+      },
+      "Ssylvialoopm51b": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nvoz",
+        "endId": "Nsylvialoop8j9n",
+        "priority": 0,
+        "speedLimit": 25,
+        "groupId": "sy-db"
+      },
+      "Ssylvialoopf5d3": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "Nsylvialoop8j9n",
+        "endId": "Nsylvialooprd8k",
+        "priority": 0,
+        "speedLimit": 25,
+        "groupId": "sy-db"
+      },
+      "Ssylvialoop09li": {
+        "style": "Bridge",
+        "trackClass": "Branch",
+        "startId": "Nsylvialooprd8k",
+        "endId": "NSylvaLoop_jlkm",
+        "priority": 0,
+        "speedLimit": 25,
+        "groupId": "sy-db"
+      },
+      "SSylvaLoop_n9uv": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NSylvLoop_9wzl",
+        "endId": "NSylvaLoop_w264",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "sy-db"
+      },
+      "Sslm90": {
+        "style": "Bridge",
+        "trackClass": "Branch",
+        "startId": "NSylvaLoop_w264",
+        "endId": "Ns9z67",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "sy-db"
+      },
+      "Ssaar7": {
+        "style": "Bridge",
+        "trackClass": "Branch",
+        "startId": "Ns9z67",
+        "endId": "NSylvLoop_e03",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "sy-db"
+      },
+      "SSylvLoop_zgbk": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "DW5_SylvaLoopTunnelrgj6",
+        "endId": "NSylvLoop_9wzl",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "sy-db"
+      },
+      "SSylvLoop_8gyh": {
+        "style": "Bridge",
+        "trackClass": "Branch",
+        "startId": "NSylvLoop_e03",
+        "endId": "NSylvLoop_ejir",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "sy-db"
+      },
+      "SSylvLoop_tnym": {
+        "style": "Bridge",
+        "trackClass": "Branch",
+        "startId": "NSylvLoop_ejir",
+        "endId": "NSylvLoop_pia5",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "sy-db"
+      },
+      "SSylvLoop_xutj": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "NSylvLoop_pia5",
+        "endId": "NSylvLoop_9wqy",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "sy-db"
+      },
+      "SSylvLoop_ik27": {
+        "style": "Standard",
+        "trackClass": "Branch",
+        "startId": "No9a",
+        "endId": "NSylvLoop_9wqy",
+        "priority": 0,
+        "speedLimit": 0,
+        "groupId": "sy-db"
+      }
+    },
+    "spans": {}
+  },
+  "splineys": {
+    "DW5 Sylva Bridge 1": {
+      "points": [
+        {
+          "position": {
+            "x": 25335.45,
+            "y": 624.5,
+            "z": -821.08
+          },
+          "rotation": {
+            "x": 359.44,
+            "y": 102.8,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 25363.05,
+            "y": 624.5,
+            "z": -827.68
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 284.58,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "bent",
+      "tailStyle": "bent",
+      "handler": "StrangeCustoms.AutoTrestleBuilder"
+    },
+    "DW5 Sylva Bridge 2": {
+      "points": [
+        {
+          "position": {
+            "x": 24820.92,
+            "y": 621.25,
+            "z": -943.34
+          },
+          "rotation": {
+            "x": 359.45,
+            "y": 85.12,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 24931.0,
+            "y": 622.45,
+            "z": -933.48
+          },
+          "rotation": {
+            "x": 359.44,
+            "y": 84.62,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "bent",
+      "tailStyle": "bent",
+      "handler": "StrangeCustoms.AutoTrestleBuilder"
+    },
+    "DW5 Sylva Bridge 3": {
+      "points": [
+        {
+          "position": {
+            "x": 25019.18,
+            "y": 623.48,
+            "z": -952.784
+          },
+          "rotation": {
+            "x": 0.56,
+            "y": 295.387,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 24931.0,
+            "y": 622.45,
+            "z": -933.48
+          },
+          "rotation": {
+            "x": 359.44,
+            "y": 84.62,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "bent",
+      "tailStyle": "bent",
+      "handler": "StrangeCustoms.AutoTrestleBuilder"
+    },
+    "DW5 Sylva Bridge 4": {
+      "points": [
+        {
+          "position": {
+            "x": 25019.18,
+            "y": 623.48,
+            "z": -952.784
+          },
+          "rotation": {
+            "x": 0.56,
+            "y": 295.387,
+            "z": 0
+          }
+        },
+        {
+          "position": {
+            "x": 25087.19,
+            "y": 624.30,
+            "z": -990.84
+          },
+          "rotation": {
+            "x": 0.50,
+            "y": 300.58,
+            "z": 0
+          }
+        }
+      ],
+      "headStyle": "bent",
+      "tailStyle": "bent",
+      "handler": "StrangeCustoms.AutoTrestleBuilder"
+    }
+  }
+}
